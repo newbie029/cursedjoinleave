@@ -1,0 +1,6 @@
+main: id.curseddev.cursedjoinleave.Main
+name: CursedJoinLeave
+version: 0.0.3
+author: Cursed Dev
+description: Disable Join and Leave messages.
+api-version: 1.13.2
